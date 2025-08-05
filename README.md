@@ -4,7 +4,7 @@ I’m passionate about **Web Development** and improving at **Competitive Progra
 
 ---
 
-## 🔧 My Skills So Far:
+🔧 My Skills So Far:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -18,7 +18,7 @@ I’m passionate about **Web Development** and improving at **Competitive Progra
 
 ---
 
-## 🌱 Currently Learning:
+🌱 Currently Learning:
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
