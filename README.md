@@ -1,21 +1,25 @@
-## Hi , I'm Mohammed Alaa 👋
-A proud muslim, student at Faculty of Engineering @ Shoubra,
-<br>
-I learn web development, and competitive programming with C++ along side it.
+## Hi, I'm Mohammed Alaa 👋  
+A proud Muslim, student at Faculty of Engineering – Shoubra.  
+I’m passionate about **Web Development** and improving at **Competitive Programming** with C++.
 
-## 🔧 My skills so far:
-- C++
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Bootstrap
-- Tailwind CSS
+---
 
-## 🌱 I'm currently learning:
-- React
-- Material UI
+## 🔧 My Skills So Far:
+- `C++`
+- `HTML`
+- `CSS`
+- `JavaScript`
+- `TypeScript`
+- `Bootstrap`
+- `Tailwind CSS`
 
-## Contact Info
+---
 
-- Linkedin: www.linkedin.com/in/mohammed-alaa-b200b3358
+## 🌱 Currently Learning:
+- `React`
+- `Material UI`
+
+---
+
+## 📫 Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/mohammed-alaa-b200b3358)
