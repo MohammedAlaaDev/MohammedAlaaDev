@@ -1,5 +1,5 @@
 ## Hi , I'm Mohammed Alaa 👋
-A proud muslim, student at Faculty of Engineering @ Shoubra
+A proud muslim, student at Faculty of Engineering @ Shoubra,
 <br>
 I learn web development, and competitive programming with C++ along side it.
 
