@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi , I'm Mohammed Alaa 👋
+A proud muslim, student at Faculty of Engineering @ Shoubra
+<br>
+I learn web development, and competitive programming with C++ along side it.
 
-<!--
-**MohammedAlaaDev/MohammedAlaaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 My skills so far:
+- C++
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Bootstrap
+- Tailwind CSS
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning:
+- React
+- Material UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Info
+
+- Linkedin: www.linkedin.com/in/mohammed-alaa-b200b3358
