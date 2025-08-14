@@ -24,7 +24,8 @@ I’m passionate about **Web Development** and improving at **Competitive Progra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
 </div>
-<div syle="display:flex; justify-content:center; align-items:center; gap:15px">
+=============
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <p>In Depth</p>
 </div>
