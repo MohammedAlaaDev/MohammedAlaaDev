@@ -26,8 +26,8 @@ I’m passionate about **Web Development** and improving at **Competitive Progra
 </div>
 <hr>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <p>In Depth</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> In Depth
+
 </div>
 
 ---
