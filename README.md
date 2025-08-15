@@ -1,5 +1,5 @@
 ## Hi, I'm Mohammed Alaa 👋  
-A proud Muslim, React learner and student at Faculty of Engineering – Shoubra.  
+React learner and student at Faculty of Engineering – Shoubra.  
 I’m passionate about **Web Development** and improving at **Competitive Programming** with C++.
 
 ---
