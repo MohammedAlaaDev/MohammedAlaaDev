@@ -24,8 +24,3 @@ I’m passionate about **Web Development** and improving at **Competitive Progra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
 </div>
-
----
-
-## 📫 Contact Me:
-- [LinkedIn](https://www.linkedin.com/in/mohammed-alaa-b200b3358)
