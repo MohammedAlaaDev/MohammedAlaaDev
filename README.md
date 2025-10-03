@@ -1,5 +1,5 @@
 ## Hi, I'm Mohammed Alaa 👋  
-A React learner and student at Faculty of Engineering – Shoubra.  
+FontEnd Developer | student at Faculty of Engineering – Shoubra.  
 I’m passionate about **Web Development** and improving at **Competitive Programming** with C++.
 
 ---
