@@ -1,5 +1,5 @@
 ## Hi, I'm Mohammed Alaa 👋  
-FontEnd Developer | student at Faculty of Engineering – Shoubra.  
+Passionate about FontEnd | student at Faculty of Engineering – Shoubra.  
 I’m passionate about **Web Development** and improving at **Competitive Programming** with C++.
 
 ---
