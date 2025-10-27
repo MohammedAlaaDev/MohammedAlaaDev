@@ -6,12 +6,14 @@
 ###
 
 <div align="center">
+
+Check out my <a href="https://personalreactportfolio123.netlify.app/" target="_blank">portfolio</a> !
   
 <img width="150"  alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9nMjEwZnN5eDh4d2N6aW01eG1yczN1eGN1dWFxdWRxejJ6OGZzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f9vso04ja2kjkVXulv/giphy.gif" />
 
 </div>
 
-<p align="center">- Silent Front-End Ninja 👤<br>- Gamer 🕹️<br>- From Egypt ⚡<br>- You can check my <a href="https://personalreactportfolio123.netlify.app/" target="_blank">portfolio</a> !</p>
+<p align="center">- Silent Front-End Ninja 👤<br>- Gamer 🕹️<br>- From Egypt ⚡</p>
 
 <hr>
 
