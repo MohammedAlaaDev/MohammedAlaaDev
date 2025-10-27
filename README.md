@@ -5,14 +5,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   
 <img width="150"  alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW8xMjhweG1uOTl4eHc3a3E4MmJyYXo5MXAycjJweXB3dGtlYjEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 </div>
 
-
-<p align="left">- Silent Front-End Ninja 👤<br>- Gamer 🕹️<br>- From Egypt ⚡<br>- You can check my <a href="https://personalreactportfolio123.netlify.app/" target="_blank">portfolio</a> !</p>
+<p align="center">- Silent Front-End Ninja 👤<br>- Gamer 🕹️<br>- From Egypt ⚡<br>- You can check my <a href="https://personalreactportfolio123.netlify.app/" target="_blank">portfolio</a> !</p>
 
 <hr>
 
