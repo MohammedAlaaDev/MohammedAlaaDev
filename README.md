@@ -32,23 +32,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="35" height="35"/>
-    <img  width="40" alt="GSAP" src="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg"/>
+    <img width="40" alt="GSAP" src="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
     <img src="https://www.netlify.com/v3/img/components/logomark.png" width="40" height="40" style="border-radius:8px;"/>
-
-
 
 </div>
 
 <hr>
 
-<h3 align="left">My Stats 💻</h3>
+<h3 align="center">My Stats 💻</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAlaaDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
