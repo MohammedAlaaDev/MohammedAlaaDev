@@ -17,7 +17,7 @@ Check out my <a href="https://personalreactportfolio123.netlify.app/" target="_b
 
 <hr>
 
-<h3 align="center">Language and tools 🔥🛠</h3>
+<h3 align="center">Languages and tools 🔥🛠</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
