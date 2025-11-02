@@ -13,7 +13,7 @@ Check out my <a href="https://personalreactportfolio123.netlify.app/" target="_b
 
 </div>
 
-<p align="center">- Silent Front-End Ninja 👤<br>- Gamer 🕹️<br>- From Egypt ⚡</p>
+<p align="center">- Silent Front-End Ninja 👤<br>- Gamer 🕹️</p>
 
 <hr>
 
