@@ -13,7 +13,7 @@ Check out my <a href="https://reactportfoliomala.netlify.app/" target="_blank">p
 
 </div>
 
-<p align="center">- Silent Front-End Ninja 👤<br>- Gamer 🕹️</p>
+<p align="center">- Silent MERN Stack Ninja 👤<br>- Gamer 🕹️</p>
 
 <hr>
 
